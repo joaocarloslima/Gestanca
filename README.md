@@ -6,7 +6,7 @@ API da aplicação de controle de gastos pessoais.
 
 - Despesas
     - [Cadastrar despesa](#cadastrar-despesa)
-    - Apagar despessa
+    - Apagar despesa
     - Alterar despesa
     - Listar todas as despesas
     - [Detalhar uma despesa](#detalhar-despesa)
