@@ -33,11 +33,11 @@ API da aplicação de controle de gastos pessoais.
 
 ```js 
 {
-    valor: 100.00,
-    data: '2023-01-27',
-    categoria_id: 1,
-    conta_id: 1,
-    descricao: 'cinema com os amigos'
+    "valor": 100.00,
+    "data": "2023-01-27",   
+    "categoria_id": 1,
+    "conta_id": 1,
+    "descricao": "cinema com os amigos"
 }
 ```
 

@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 public class Despesa {
+    private Long id;
     private BigDecimal valor;
     private LocalDate data;
     private String descricao;
@@ -13,6 +14,15 @@ public class Despesa {
         this.data = data;
         this.descricao = descricao;
     }
+
+     public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
 
     public BigDecimal getValor() {
         return valor;
